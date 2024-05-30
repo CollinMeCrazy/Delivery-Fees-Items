@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Project2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=receiver
+comment2.target=boolean\ checkForValidDelivery(java.lang.String)
+comment2.text=\r\n\ Method\ checkForValidDelivery\ returns\ true\ or\ false\ based\ on\ String\ input\ \r\n\ \r\n\ @param\ String\r\n\ @return\ boolean\r\n
+comment3.params=print
+comment3.target=void\ printDeliveryOrder(Delivery)
+comment3.text=\r\n\ Method\ printDeliveryOrder\ prints\ out\ delivery\ location,\ origin,\ item\ being\ delivered,\ and\ total\ fee\ of\ that\ item\r\n\ Also\ checks\ if\ there\ is\ no\ delivery\ order\ and\ prints\ nothing\r\n\ \r\n\ @param\ Delivery\r\n\ @return\ nothing\r\n
+comment4.params=hazard
+comment4.target=void\ printHazardousDeliveryOrder(Delivery)
+comment4.text=\r\n\ Method\ printHazardousDeliveryOrder\ prints\ a\ whole\ new\ order\ if\ the\ item\ is\ hazardous\r\n\ Adds\ the\ statement\ (-HAZARD-)\ if\ so\r\n\ \r\n\ @param\ Delivery\r\n\ @return\ nothing\r\n
+comment5.params=one\ two\ three
+comment5.target=double\ feeTotal(Delivery,\ Delivery,\ Delivery)
+comment5.text=\r\n\ Method\ feeTotal\ sums\ up\ the\ fees\ of\ each\ item\ from\ each\ object\ and\ returns\ its\ total\r\n\ \r\n\ @param\ Delivery\r\n\ @return\ double\r\n
+numComments=6

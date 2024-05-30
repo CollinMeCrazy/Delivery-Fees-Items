@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Delivery
+comment0.text=\r\n\ Class\ Delivery\ conducts\ math\ based\ on\ Class\ Project2's\ input.\ Also\ contains\ getter\ methods\ used\ by\ Class\ Project2\r\n\r\n\ @author\ Collins\ Ramsey\r\n\ @dateStarted\ 9/19/2022\ at\ 5\:27pm\r\n
+comment1.params=
+comment1.target=Delivery()
+comment1.text=\r\n\ Standard\ Constructor\ for\ class\ Delivery\r\n
+comment2.params=receiver\ origin\ item\ numberOfItems\ weightPerItemInOz\ hazard
+comment2.target=Delivery(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.text=\r\n\ Constructor\ two\ for\ class\ Delivery.\ Uses\ parameters\ input\ from\ Project2,\ \r\n\ conducts\ math\r\n
+comment3.params=
+comment3.target=java.lang.String\ getReceiver()
+comment3.text=\r\n\ Method\ getReceiver\ returns\ the\ variable\ receiver\ as\ String\r\n\r\n\ @param\ \ none\r\n\ @return\ String\r\n
+comment4.params=
+comment4.target=java.lang.String\ getOrigin()
+comment4.text=\r\n\ Method\ getOrigin\ returns\ the\ variable\ origin\ as\ String\r\n\ \r\n\ @param\ none\r\n\ @return\ String\r\n
+comment5.params=
+comment5.target=java.lang.String\ getItem()
+comment5.text=\r\n\ Method\ getItem\ returns\ the\ variable\ item\ as\ String\r\n\ \r\n\ @param\ none\r\n\ @return\ String\r\n
+comment6.params=
+comment6.target=boolean\ getHazardous()
+comment6.text=\r\n\ Method\ getHazardous\ returns\ variable\ hazardous\ as\ boolean\r\n\ \r\n\ @param\ none\r\n\ @return\ boolean\r\n
+comment7.params=
+comment7.target=double\ getFee()
+comment7.text=\r\n\ Method\ getFee\ returns\ varibale\ fee\ as\ double\r\n\ \r\n\ @param\ none\r\n\ @return\ double\r\n
+numComments=8
